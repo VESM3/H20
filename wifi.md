@@ -36,6 +36,8 @@ network={
 	priority=2
 	psk="passwordforHome"
 	id_str="home"
+	key_mgmt=WPA-PSK   # algengt
+
 }
 network={
 	ssid="Taekniskolinn"  
