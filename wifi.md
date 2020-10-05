@@ -36,7 +36,7 @@ network={
 	priority=2
 	psk="passwordforHome"
 	id_str="home"
-	key_mgmt=WPA-PSK   # algengt
+	key_mgmt=WPA-PSK   # algengt og má sleppa, getur verið mismunandi e. protocol
 
 }
 network={
