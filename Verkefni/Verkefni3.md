@@ -98,8 +98,15 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 
 ---
 
-#### 3.10 (3%) væntanlegt!
+#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01. 
+- Tengdu tvo Arduino Uno með nRF24L01
+- Sýndu samskipti sem fara í báðar áttir með tökkum og led perum.
+- Sjá t.d. [NRF24L01 Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
 
+---
+<!--
+#### 3.11 nRF24L01 með RaspberryPi og Arduino Uno. Væntanlegt
+-->
 ---
 
 ### Námsmat og skil
