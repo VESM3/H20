@@ -55,7 +55,7 @@ Munið að fylgja leiðbeiningum vel (ath lesa hverja síðu og fara í NEXT ne�
   
 ---
 
-#### 3.5 Bluetooth tenging, RPi til snjallsíma og LED (2%)
+#### 3.5 Bluetooth tenging, RPi til snjallsíma og LED (1%)
 Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.io/en/latest/recipes.html#flash-an-led)
   
   - Verkefnið er að rasberryPI kveikir á LED þegar smelt er á Blue Dot í snjallsíma :-) sem þýðir að þið verðið að tengja eina LED peru í breadboard
@@ -65,7 +65,7 @@ Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.
   
 ---
 
-#### 3.6 Bluetooth tenging, RPi til snjallsíma og Myndavél (1-2%)
+#### 3.6 Bluetooth tenging, RPi til snjallsíma og Myndavél (1%)
 Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.readthedocs.io/en/latest/recipes.html#remote-camera)
   
   - Verkefnið er að rasberryPI tekur mynd þegar smelt er á Blue Dot í snjallsíma :-) sem þýðir tenging við video :-)
@@ -98,7 +98,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 
 ---
 
-#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01.
+#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01. 
 - Tengdu tvo Arduino Uno með nRF24L01
 - Sýndu samskipti sem fara í báðar áttir með tökkum og led perum.
 - Sjá t.d. [NRF24L01 Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
