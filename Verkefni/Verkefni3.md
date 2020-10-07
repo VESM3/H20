@@ -65,7 +65,7 @@ Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.
   
 ---
 
-#### 3.6 Bluetooth tenging, RPi til snjallsíma og Myndavél (2%)
+#### 3.6 Bluetooth tenging, RPi til snjallsíma og Myndavél (1-2%)
 Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.readthedocs.io/en/latest/recipes.html#remote-camera)
   
   - Verkefnið er að rasberryPI tekur mynd þegar smelt er á Blue Dot í snjallsíma :-) sem þýðir tenging við video :-)
