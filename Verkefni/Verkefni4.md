@@ -34,7 +34,8 @@ hér er líka gagnlegt `halló heimur` myndband ef þú vilt skoða: [Connecting
 
 #### 4.2 Digital Output
 How to turn a LED on and off from Adafruit IO using any modern web browser.<br>
-Fylgdu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.com/adafruit-io-basics-digital-output) með notkun RaspberryPi.
+Fylgdu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.com/adafruit-io-basics-digital-output) með notkun RaspberryPi. <br>
+Notaðu sama Dashboard og í 4.1.
 
 ---
 
