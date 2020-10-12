@@ -47,5 +47,7 @@ Fylgdu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.com/
 Gefið er fullt fyrir fullnægjandi lausn, hálft ef ábótavant.
 Skilaðu á Innu vefslóð á Github wiki vefsíðu (**private**) sem inniheldur:
 
-- Myndbönd af virkni úr verklegum tilraunum. Passaðu að nafnið þitt og dagsetning komi fram (t.d. á miða) í öllum myndböndum.
-- Kóði.
+- Kóði (taktu út KEY upplýsingar)
+- Myndbönd af virkni úr verklegum tilraunum. 
+- Passaðu að nafnið þitt og dagsetning komi fram (t.d. á miða) í öllum myndböndum.
+
