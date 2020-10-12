@@ -38,7 +38,7 @@ Fylgdu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.com/
 
 ---
 
-## Fleiri verkefni væntanleg!
+### Fleiri verkefni væntanleg!
 
 ---
 
