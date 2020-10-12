@@ -23,7 +23,7 @@ Tími: 3 vikur
 
 ---
 
-#### 4.1 Digital Input
+#### 4.1 Digital Input (2%)
 How to send momentary button press data to Adafruit IO.<br>
 Fylgdu Adafruit IO Basics tutorial: [Digital Input](https://learn.adafruit.com/adafruit-io-basics-digital-input) með notkun RaspberryPi. <br>
 Sjá `digital_in.py` í _examples/basics_ <br>
@@ -32,7 +32,7 @@ hér er líka gagnlegt `halló heimur` myndband ef þú vilt skoða: [Connecting
 
 ---
 
-#### 4.2 Digital Output
+#### 4.2 Digital Output (2%)
 How to turn a LED on and off from Adafruit IO using any modern web browser.<br>
 Fylgdu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.com/adafruit-io-basics-digital-output) með notkun RaspberryPi. <br>
 Notaðu sama Dashboard og í 4.1.
