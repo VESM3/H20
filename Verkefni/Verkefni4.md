@@ -7,8 +7,7 @@ Tími: 3 vikur
 
 #### Adafruit IO umhverfið 
 1. AdafruitIO+ aðgangur
-   - Skráði þig hjá [Adafruit](https://www.adafruit.com/)  
-   - Náðu í Adarfuit IO+ aðgang (1 ár frítt) hjá [Github Student Pack](https://education.github.com/pack) og tengdu saman Github og Adafruit reikning.
+   - Náðu í Adarfuit IO+ aðgang (1 ár frítt) hjá [Github Student Pack](https://education.github.com/pack) og tengdu saman Github og Adafruit](https://www.adafruit.com/)  reikning.
    - Í Adafruit reikningnum skaltu velja `services`, `view discount` (þar er kóðaruna fyrir Adafruit IO).
    - Skráðu þig inn hjá [Adafruit IO](https://io.adafruit.com/). Veldu `Upgrade to IO+` og smelltu svo á hnappinn `Redeem a Coupon or Pass` og settu inn rununa til að fá 1 ár frítt. Ath. það þarf aldrei að gefa upp kredikortaupplýsingar.
 1. Skoðaðu vel [Welcome to Adafruit IO](https://learn.adafruit.com/welcome-to-adafruit-io/projects) og [Adafruit IO (myndbönd)](https://learn.adafruit.com/all-the-internet-of-things-episode-four-adafruit-io/how-adafruit-io-works)
