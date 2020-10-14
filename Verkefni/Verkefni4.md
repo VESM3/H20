@@ -45,7 +45,7 @@ Notaðu takka á brauðbretti sem er tengt við RaspberryPi sem sendir skilaboð
 
 Notaðu einnig vefþjónustu að eigin vali (t.d email, sms, twitter osfrv.) hjá [IFTTT (If This Then That)](https://ifttt.com/) sem vaktar þetta `feed` hjá Adafruit IO og lætu þig vita þegar smellt er á takkann. 
 
-Sjá [IFTTT uppsetning](https://learn.adafruit.com/using-ifttt-with-adafruit-io/ifttt-to-adafruit-io-setup) <br>
+Sjá [IFTTT uppsetningu](https://learn.adafruit.com/using-ifttt-with-adafruit-io/ifttt-to-adafruit-io-setup) <br>
 _Create -> if This -> Adafruit -> Any new data -> Veldu viðeigandi feed -> Create Trigger -> Then That og veldu vefþjónustu að eigin vali_
 
 > A basic project that triggers an internet action when a physical switch is activated.
