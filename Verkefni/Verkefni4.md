@@ -40,7 +40,7 @@ Skoðaðu Adafruit IO Basics tutorial: [Digital Output](https://learn.adafruit.c
 
 ---
 
-#### 4.3 Circuit Triggers Internet Action. (3%)
+#### 4.3 Services. Circuit Triggers Internet Action. (3%)
 Notaðu takka á brauðbretti sem er tengt við RaspberryPi sem sendir skilaboð til Adafruit IO þegar ýtt er á hann. Notaðu `RPi.GPIO` safnið fyrir GPIO (ekki `adafruit_blinka`).
 
 Notaðu einnig vefþjónustu að eigin vali (t.d email, sms, twitter osfrv.) hjá [IFTTT (If This Then That)](https://ifttt.com/) sem vaktar þetta `feed` hjá Adafruit IO og lætu þig vita þegar smellt er á takkann. 
