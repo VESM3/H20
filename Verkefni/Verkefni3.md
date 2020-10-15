@@ -55,7 +55,7 @@ Munið að fylgja leiðbeiningum vel (ath lesa hverja síðu og fara í NEXT ne�
   
 ---
 
-#### 3.5 Bluetooth tenging, RPi til snjallsíma og LED (1%)
+#### 3.5 Bluetooth tenging, RPi til snjallsíma og LED (2%)
 Fylgdu tutorial: [Bluetooth and BlueDot with LED !](https://bluedot.readthedocs.io/en/latest/recipes.html#flash-an-led)
   
   - Verkefnið er að rasberryPI kveikir á LED þegar smelt er á Blue Dot í snjallsíma :-) sem þýðir að þið verðið að tengja eina LED peru í breadboard
@@ -89,7 +89,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 
 ---
 
-#### 3.9 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (2%)
+#### 3.9 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (3%)
   - Lestu vel og vandlega og fylgdu tutorial: [How nRF24L01+ Wireless Module Works & Interface with Arduino](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) 
   - **Ath** tengdu nRF24L01 við 3.3V output. Ekki tengja í 5V, það mun skemma nRF24L01
   - breyttu addressunni á rásinni (e. channel) fyrir samskiptin, notaðu háar tölur.
@@ -98,7 +98,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 
 ---
 
-#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01. 
+#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01. (3%)
 - Tengdu tvo Arduino Uno með nRF24L01
 - Sýndu samskipti sem fara í báðar áttir með tökkum og led perum.
 - Sjá t.d. [NRF24L01 Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
