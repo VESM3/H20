@@ -54,7 +54,26 @@ _Create -> if This -> Adafruit -> Any new data -> Veldu viðeigandi feed -> Crea
 
 ---
 
-### Fleiri verkefni væntanleg!
+#### 4.4 Analog Output (3%)
+
+Notaðu _Slider block_ (min value 0, max vale 1024) í _Dashbord_ með Adafruit IO til að stýra birtustig á LED sem er tengd við PWM pinna á RaspberryPi. <br>
+
+Sjá t.d eftirfarandi til viðmiðunar:
+- [Kóðalausn, en með notkun PWM driver](https://learn.adafruit.com/adafruit-io-basics-analog-output/python-code)
+- [RPi Python Programming 16: Analog output and software PWM](https://www.engineersgarage.com/raspberrypi/articles-raspberry-pi-python-software-pwm-led-fading/)
+- [Raspberry Pi PWM Tutorial | Control Brightness of LED](https://electronicshobbyists.com/raspberry-pi-pwm-tutorial-control-brightness-of-led-and-servo-motor/)
+
+---
+
+#### 4.5 Analog Input  (5%)
+Sendu analog gildi frá ljósviðnámi (e. photocell) til Adafruit IO. Birtu rauntímaniðurstöður með _Gauge block_ og línuriti í Dashboard.<br>
+Notaðu Arduino og RaspberryPi saman til að leysa verkefnið. Arduino á að sjá um að mæla gildin. 
+
+Sjá til viðmiðunar [Analog Input (Arduino)](https://learn.adafruit.com/adafruit-io-basics-analog-input) tutorial og [python kóði með notkun MCPP3008 ADC converter](https://github.com/adafruit/Adafruit_IO_Python/blob/master/examples/basics/analog_in.py) 
+
+---
+
+### 4.6 (5%) væntanleg!
 
 ---
 
