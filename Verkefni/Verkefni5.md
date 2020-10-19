@@ -1,4 +1,4 @@
-## Lokaverkefni (35%) _drög_
+## Verkefni 5 (35%) _drög_
 
 Haust  2020 <br>
 Einstaklingsverkefni  
