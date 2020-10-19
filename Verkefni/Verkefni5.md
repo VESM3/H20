@@ -24,6 +24,6 @@ Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og ver
 
 Dæmi um IoT verkefni: [Adafruit](https://learn.adafruit.com/category/internet-of-things-iot?guide_page=2&total_count=224&total_verbiage=total+series-), [Makerpro](https://maker.pro/projects/category/iot?filter=popular) og [Arduino](https://create.arduino.cc/projecthub/products/arduino-iot-cloud)
 
-**Ath** Verkefnið þarf að vera ykkar eigið 100%! Tutorial má nota fyrir innblástur og hugmyndir.
+**Ath** Verkefnið þarf að vera þitt eigið (100%)! Tutorial og tilbúin Projects má nota fyrir innblástur og hugmyndir.
 
 ---
