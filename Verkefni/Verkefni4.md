@@ -73,7 +73,7 @@ Sjá til viðmiðunar [Analog Input (Arduino)](https://learn.adafruit.com/adafru
 
 ---
 
-### 4.6 (5%) væntanleg!
+#### 4.6 (5%) væntanleg!
 
 ---
 
