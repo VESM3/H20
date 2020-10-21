@@ -1,4 +1,4 @@
-### Verkefni 4 (20%) _drög_
+### Verkefni 4 (20%) 
 
 Einstaklingsverkefni <br>
 Tími: 3 vikur
@@ -73,7 +73,16 @@ Sjá til viðmiðunar [Analog Input (Arduino)](https://learn.adafruit.com/adafru
 
 ---
 
-#### 4.6 (5%) væntanleg!
+#### 4.6 Triggers (5%) 
+
+Tengið eina led peru í breadbord og setjið rétt viðnám, búið til tvo scheduled trigger sem kveikir og annan sem slökkvar á led. Tengið ljósviðnám og servo mótor einnig og búið til reactive trigger sem lætur servo mótor snúa hálfaleið (0 - 180 °) þegar ákveðnu ljósmagni (ljósviðnám=hátt gildi) og í öfuga átt ef lágt gildi. 
+Ath það er gott að sjá GPIO pinna með því að fara í command line og skrifa "pinout" þá fáið þið alla pinna á raspinu ykkar :-)
+
+- [Schedule Triggers](https://learn.adafruit.com/adafruit-io-basics-scheduled-triggers)
+- [Reactive Triggers](https://www.digikey.com/en/maker/blogs/2019/how-to-use-triggers-in-your-adafruit-io-project)
+- [Servo mótor](https://tutorials-raspberrypi.com/raspberry-pi-servo-motor-control/)
+- [Raspberry pi með led](https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/)
+- [Ljósviðnám](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi/basic-photocell-reading)
 
 ---
 
