@@ -1,7 +1,8 @@
 ## Verkefni 5 (35%) _drög_
 
 Haust  2020 <br>
-Einstaklingsverkefni  
+Einstaklingsverkefni.
+Tími: 5 vikur.
 
 ---
 
@@ -9,11 +10,11 @@ Einstaklingsverkefni
 Lokaverkefnið snýr að hönnun og IoT frumgerðasmíð þar sem ýmis tæki og tól eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu, sem geta greint gögn og upplýsingar úr umhverfinu og miðlað þeim. Unnið með inntaksupplýsingar til að stýra tengdum úttaksbúnaði. 
 Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og verkþáttum. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
 
-#### Verkþættir sem þarf að uppfylla:
+#### Grunnkröfur: Verkþættir sem þarf að uppfylla:
 
 - Unnið er með RaspberryPi og Arduino saman.
-- Unnið er með inntak frá skynjurum (greint upplýsingar úr umhverfinu).
-- Unnið með inntak til að stýra tengdum úttaksbúnaði (valkvæmt).
+- Unnið er með inntak frá skynjurum, tveimur eða fleirum (greint upplýsingar úr umhverfinu).
+- Unnið með inntak til að stýra tengdum úttaksbúnaði.
 - Gögn eru send frá inntaki með völdum samskiptaleiðum.
 - Unnið er úr gögnum (forritun).
 - Unnið er með vefviðmót eða smáforrit fyrir birtingu gagna og stýringar.
