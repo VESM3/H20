@@ -10,11 +10,16 @@ Tími: 5 vikur.
 Lokaverkefnið snýr að hönnun og IoT frumgerðasmíð þar sem ýmis tæki og tól eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu, sem geta greint gögn og upplýsingar úr umhverfinu og miðlað þeim. Unnið með inntaksupplýsingar til að stýra tengdum úttaksbúnaði. 
 Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og verkþáttum. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
 
+Dæmi um IoT verkefni: [Adafruit](https://learn.adafruit.com/category/internet-of-things-iot?guide_page=2&total_count=224&total_verbiage=total+series-), [Makerpro](https://maker.pro/projects/category/iot?filter=popular) og [Arduino](https://create.arduino.cc/projecthub/products/arduino-iot-cloud)
+
+
 ### Verkefnalýsing grunnverkefni (sjálfgefið)
 Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-planter-with-adafruit-io) en sleppum skjá (PyPortal) og hátalara. Það sem bætist við er sjálvirk vökvun og videocam sem tekur myndir af plöntu t.d samkvæmt tímaplani (adafruit IO) þannig er hægt að fylgjast með plöntu og líðan hennar :-) . Sjálvirk vökun gæti t.d verið 2.lítra plastflaska opin að ofan svo hægt sé að fylla hana og plastslanga í tappa endanum sem fer í plöntupott, þar er segulrofi sem opnar þegar vökva á plöntuna annars lokaður. Megnið af efni fáið þið í skóla, plastslöngur og segulrofa, að öllu leyti eru sömu kröfur á þetta verkefni og önnur. Það sem er kannski öðruvísi núna er að við viljum nota hærri spennu en venjulega þegar við notum segulrofa þá er það leyst með transistorum eða relay hér eru dæmi:
 
   * Rasberry Pi +12V [relay](https://www.iotdesignpro.com/projects/iot-based-solenoid-door-lock-using-raspberry-pi-4)
   * Arduino Uno +6V [Transistor](https://mechatrofice.com/arduino/solenoid-valve-control)
+
+**Ath** Verkefnið þarf að vera þitt eigið! Tutorials og tilbúin Projects má nota fyrir innblástur og hugmyndir.
 
 
 #### Grunnkröfur: Verkþættir sem þarf að uppfylla:
@@ -29,11 +34,6 @@ Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-plant
 - Hanna IoT frumgerð (2D/3D hönnunarteikningar,rafrásarteikning).
 - Samsettning á IoT búnaði (innfeld kerfi, vélbúnaður, tæki, skynjarar, íhlutir, brauðbretti, vírar osfrv.)
 - Smíði IoT frumgerðar (veróborðsmíði, lóðun og samsettning) _með fyrirvara um að geta unnið í skólanum_.
-
-
-Dæmi um IoT verkefni: [Adafruit](https://learn.adafruit.com/category/internet-of-things-iot?guide_page=2&total_count=224&total_verbiage=total+series-), [Makerpro](https://maker.pro/projects/category/iot?filter=popular) og [Arduino](https://create.arduino.cc/projecthub/products/arduino-iot-cloud)
-
-**Ath** Verkefnið þarf að vera þitt eigið! Tutorials og tilbúin Projects má nota fyrir innblástur og hugmyndir.
 
 ---
 
