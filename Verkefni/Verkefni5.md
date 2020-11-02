@@ -9,6 +9,8 @@ Tími: 5 vikur.
 ### Verkefnalýsing
 Lokaverkefnið snýr að hönnun og IoT frumgerðasmíð þar sem ýmis tæki og tól eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu, sem geta greint gögn og upplýsingar úr umhverfinu og miðlað þeim. Unnið með inntaksupplýsingar til að stýra tengdum úttaksbúnaði. 
 Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og verkþáttum. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
+### Verkefnalýsing grunnverkefni
+Verkefnið er í grunninn [þetta:](https://learn.adafruit.com/pyportal-pet-planter-with-adafruit-io) Það sem bætist við er sjálvirk vökvun og videocam sem tekur myndir af plöntu t.d samkvæmt tímaplani (adafruit IO) þannig er hægt að fylgjast með plöntu og líðan hennar :-) . Sjálvirk vökun gæti t.d verið 2.lítra plastflaska opin að ofan svo hægt sé að fylla hana og plastslanga í tappa endanum sem fer í plöntu pott, þar er segulrofi sem opnar þegar vökva á plöntuna. Megnið af efni fáið þið í skóla , plastslöngur og segulrofa að öllu leyti eru sömu kröfur á þetta verkefni og önnur.
 
 #### Grunnkröfur: Verkþættir sem þarf að uppfylla:
 
