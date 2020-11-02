@@ -30,7 +30,7 @@ Dæmi um IoT verkefni: [Adafruit](https://learn.adafruit.com/category/internet-o
 
 ---
 
-## Verkefnaskil og skýrsla
+### Verkefnaskil og skýrsla
 
 Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eftirfarandi:
 
@@ -47,3 +47,5 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
   - ljósmynd af lóðun (báðar hliðar) af verosmíði. (með fyrirvara).
   
 ---
+
+### Námsmat (væntanlegt)
