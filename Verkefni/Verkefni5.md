@@ -23,7 +23,7 @@ Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-plant
   
 
 
-#### Grunnkröfur: Verkþættir sem þarf að uppfylla:
+### Grunnkröfur: Verkþættir sem þarf að uppfylla:
 
 - Unnið er með RaspberryPi og Arduino ef það á við.
 - Unnið er með inntak frá skynjurum, tveimur eða fleirum (greint upplýsingar úr umhverfinu).
