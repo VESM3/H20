@@ -43,7 +43,7 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
   - tengla á kóðaskrár.
   - ljósmyndir af samsettningu á IoT búnað og tilraunum. 
   - dagbók, hvað var gert og hvenær.
-  - helstu hönnunarákvarðanir, erfiðleikar og annað sem þér dettur í hug.
+  - helstu hönnunarákvarðanir, heimildir og erfiðleikar og annað sem þér dettur í hug.
   - tengil á myndband af notkun og virkni IoT furmgerðar, með veróborðasmíð og hýsingu. (með fyrirvara).
   - ljósmynd af lóðun (báðar hliðar) af verosmíði. (með fyrirvara).
   
