@@ -40,6 +40,7 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
   - rafrásarteikning.
   - hönnunarteikningar (til prentunar) 2d og eða 3d teikningar og model (.stl skráin).
   - tengil á myndband af notkun og virkni frumgerðar.
+  - tengla á kóðaskrár.
   - ljósmyndir af samsettningu á IoT búnað og tilraunum. 
   - dagbók, hvað var gert og hvenær.
   - helstu hönnunarákvarðanir, erfiðleikar og annað sem þér dettur í hug.
