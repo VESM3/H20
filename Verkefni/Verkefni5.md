@@ -46,6 +46,3 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
   - tengil á myndband af notkun og virkni IoT furmgerðar, með veróborðasmíð og hýsingu. (með fyrirvara).
   - ljósmynd af lóðun (báðar hliðar) af verosmíði. (með fyrirvara).
   
----
-
-### Námsmat (væntanlegt)
