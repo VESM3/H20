@@ -12,7 +12,7 @@ Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og ver
 
 #### Grunnkröfur: Verkþættir sem þarf að uppfylla:
 
-- Unnið er með RaspberryPi og Arduino saman.
+- Unnið er með RaspberryPi og Arduino ef það á við.
 - Unnið er með inntak frá skynjurum, tveimur eða fleirum (greint upplýsingar úr umhverfinu).
 - Unnið með inntak til að stýra tengdum úttaksbúnaði.
 - Gögn eru send frá inntaki með völdum samskiptaleiðum.
