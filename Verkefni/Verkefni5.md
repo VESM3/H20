@@ -6,7 +6,8 @@ Tími: 5 vikur.
 
 ---
 
-### Verkefnalýsing 
+### Verkefnalýsing: Almenn lýsing.
+
 Lokaverkefnið snýr að hönnun og IoT frumgerðasmíð þar sem ýmis tæki og tól eru notuð. Unnið er með samþætting tækja og hugbúnaðar tengda netinu, sem geta greint gögn og upplýsingar úr umhverfinu og miðlað þeim. Unnið með inntaksupplýsingar til að stýra tengdum úttaksbúnaði. 
 Val á viðfangefni og útfærslur er frjálst en háð samþykki kennara og verkþáttum. Gert er ráð fyrir sjálfstæðum vinnubrögðum. 
 
@@ -16,7 +17,8 @@ Dæmi um IoT verkefni: [Adafruit](https://learn.adafruit.com/category/internet-o
 
 ---
 
-### Verkefnalýsing grunnverkefni (sjálfgefið)
+### Verkefnalýsing:  Pottaplantan (sjálfgefið verkefni).
+
 Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-planter-with-adafruit-io) (sleppum PyPortal og hátalara). Það sem bætist við er sjálfvirk vökvun og videocam sem tekur myndir af plöntu t.d samkvæmt tímaplani (adafruit IO) þannig er hægt að fylgjast með plöntu og líðan hennar :-) . Sjálvirk vökvun gæti t.d verið 2.lítra plastflaska opin að ofan svo hægt sé að fylla hana og plastslanga í tappa endanum sem fer í plöntupott, þar er [segulrofi](https://bc-robotics.com/tutorials/controlling-a-solenoid-valve-with-arduino/) sem opnar þegar vökva á plöntuna annars lokaður. Megnið af efni fáið þið í skóla, plastslöngur og segulrofa, að öllu leyti eru sömu kröfur á þetta verkefni og önnur. Það sem er kannski öðruvísi núna er að við viljum nota hærri spennu en venjulega þegar við notum segulrofa þá er það leyst með transistorum eða relay hér eru dæmi:
 
   * Rasberry Pi +12V [relay](https://www.iotdesignpro.com/projects/iot-based-solenoid-door-lock-using-raspberry-pi-4)
@@ -24,7 +26,7 @@ Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-plant
   
 ---
 
-### Grunnkröfur: Verkþættir sem þarf að uppfylla:
+### Verkþættir sem þarf að uppfylla:
 
 - Unnið er með RaspberryPi og Arduino ef það á við.
 - Unnið er með inntak frá skynjurum, tveimur eða fleirum (greint upplýsingar úr umhverfinu).
@@ -39,7 +41,7 @@ Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-plant
 
 ---
 
-### Verkefnaskil og skýrsla
+## Verkefnaskil og skýrsla
 
 Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eftirfarandi:
 
