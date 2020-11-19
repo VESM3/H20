@@ -123,7 +123,7 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
    - 10% Samsettning, tengingar, lóðun eða veróborð útfærsla er ábótavant.
    -  5% Samsettning, tengingar, lóðun, veróborð er óklárað eða stórlega ábótavant.
 ### Bjargir
-1. [Rafrásarteikningar](https://github.com/VESM3/H20/blob/master/Verkefni/Verkefni5PottaPlanta.md)
+1. [Rafrásarteikningar](https://www.circuit-diagram.org/editor/)
 --- 
 
 <!-- 
