@@ -102,5 +102,7 @@ Skilaðu hlekk á lokaða (e. private) Github geymslu á Innu sem inniheldur eft
       - Lóðun og lengd víra eru hóflegir og skipulagðir.
    - 10% Samsettning, tengingar, lóðun eða veróborð útfærsla er ábótavant.
    -  5% Samsettning, tengingar, lóðun, veróborð er óklárað eða stórlega ábótavant.
-   
+
+### Bjargir
+1. [Rafrásarteikningar](https://github.com/VESM3/H20/blob/master/Verkefni/Verkefni5PottaPlanta.md)   
 
