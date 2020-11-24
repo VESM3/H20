@@ -12,6 +12,7 @@ Verkefnið er í grunninn [þetta](https://learn.adafruit.com/pyportal-pet-plant
 
   * Rasberry Pi +12V [relay](https://www.iotdesignpro.com/projects/iot-based-solenoid-door-lock-using-raspberry-pi-4)
   * Arduino Uno +6V [Transistor](https://mechatrofice.com/arduino/solenoid-valve-control)
+  * Arduino 9v [Transistor](https://www.reddit.com/r/arduino/comments/8hh6py/newbie_need_help_making_a_solenoid_valve_work/)
   
 
 #### Verkþættir sem þarf að uppfylla:
