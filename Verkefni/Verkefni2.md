@@ -12,12 +12,12 @@ Notaðu PIR hreyfisyknjara til að kveikja á LED.
     - [How to Interface a PIR Motion Sensor With Raspberry Pi GPIO](https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio)
     - Yfirfarðu kóðann, tengdu víra rétt í PIR (finna datasheet), stilltu næmleika og timeout (hve lengi) á PIR, taktu linsu af PIR til að þrengja IR svið. 
    
-1. Pi NoIR V2 Camera **(2%)** <br>
+1. Pi V2 Camera **(2%)** <br>
 Notaðu python og taktu mynd með 1024x768 upplausn (eða hærri) af sjálfum þér með Pi NoIR V2 myndavélinni tengda við RPi.   
    - **Varúð!** Slökktu fyrst á RPi þegar þú tengir myndavélina við Camera Serial Interface (CSI) á RPi. 
    - Sjá tutorial [Setting up the Pi NoIR Camera with Raspberry Pi](https://maker.pro/raspberry-pi/tutorial/how-to-interface-pi-noir-v2-camera-with-raspberry-pi)
   
-1. Pi NoIR V2 Camera **(2%)** <br>
+1. Pi V2 Camera **(2%)** <br>
 Taktu 5 sekúndu myndband með Pi NoIR V2 myndavélinni tengda við RPi og python   
    - [PiCamera documentation](https://picamera.readthedocs.io/en/release-1.13/)
 
