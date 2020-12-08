@@ -6,7 +6,7 @@
 - [Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/overview)
 - [How to Use a Soil Moisture Sensor to Keep Your Plants Alive (with python)](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
 - [Testing Capacitive soil moisture sensors](https://flashgamer.com/blog/comments/testing-capacitive-soil-moisture-sensors)
-
+- [Why most soil sensors suck](https://www.youtube.com/watch?v=udmJyncDvw0)
 
 ### adafruit_seesaw safnið
 - [arduino](https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit__seesaw.html)
