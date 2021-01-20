@@ -7,6 +7,7 @@ Tími: 3 vikur
 
 #### 3.1. Arduino og Raspberry Pi (1%)
   1. Hver er munurinn á Arduino Uno og Raspberry Pi, nefndu helstu atriði?
+  1. Hver er munurinn á Arduino Uno og Arduino Nano Io 33
   1. Hvenær og afhverju getur það verið gagnlegt að tengja Arduino og Raspberry Pi saman? Komdu með dæmi.
   
 ---
