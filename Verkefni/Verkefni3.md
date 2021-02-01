@@ -87,6 +87,9 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
   1. Hvað er SPI? Hverjir eru helstu kostir og ókostir?
   1. Hvenær er betra að nota SPI fremur en Serial Ports (TX og RX)?
   1. Hver er helsti munurinn á SPI og I2C og hvenær myndir þú frekar nota SPI?
+  
+  Bjargir:
+  1. [Myndband um SPI](https://www.youtube.com/watch?v=ldRkXTBw9_o)
 
 ---
 
