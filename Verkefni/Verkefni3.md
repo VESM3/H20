@@ -73,7 +73,7 @@ Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.r
   
 ---
 
-#### 3.7 Bluetooth og Serial tenging (3%)
+#### 3.7 Bluetooth og Serial tenging (2%)
 
 - Notaðu BlueDot með RaspberryPi til að kveikja á RGB LED peru sem er tengd við Arduino. 
 - Það á að vera hægt að velja um 4 mismunandi liti með BlueDot.
@@ -81,19 +81,31 @@ Fylgdu tutorial: [Bluetooth and BlueDot using remote camera !](https://bluedot.r
 
 ---
 
-#### 3.8 SPI (1%)
-Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI Interface](https://www.analog.com/en/analog-dialogue/articles/introduction-to-spi-interface.html) og [SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all) og svaraðu eftirfarandi spurningum:
- 
-  1. Hvað er SPI? Hverjir eru helstu kostir og ókostir?
-  1. Hvenær er betra að nota SPI fremur en Serial Ports (TX og RX)?
-  1. Hver er helsti munurinn á SPI og I2C og hvenær myndir þú frekar nota SPI?
-  
-  Bjargir:
-  1. [Myndband um SPI](https://www.youtube.com/watch?v=ldRkXTBw9_o)
+
+#### 3.8 SPI Serial Peripheral Interface (SPI) (1%)
+Kynntu þér Serial Peripheral Interface (SPI). Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol) og svaraðu eftirfarandi spurningum:
+   
+   1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
+   1. Hvað er master-slave samband, útskýrðu útfrá; MISO, MOSI, SCLK og CS/SS? 
+   1. Hverjir eru helstu kostir og ókostir við SPI?
+   
+---
+
+#### 3.9. (1%)
+1. Fylgdu eftirfarandi tutorial: [Communication between two Arduino Boards](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial) og settu upp á Breadboard. Sjá einnig [How do you use SPI on an Arduino?](https://arduino.stackexchange.com/questions/16348/how-do-you-use-spi-on-an-arduino)
+
+
+**SPI:**
+
+- [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol)
+- [SPI](https://www.allaboutcircuits.com/technical-articles/spi-serial-peripheral-interface/)
+- [Arduino og SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all) 
+- [SPI safnið fyrir Arduino](https://www.arduino.cc/en/reference/SPI)
+- [Myndband um SPI](https://www.youtube.com/watch?v=ldRkXTBw9_o)
 
 ---
 
-#### 3.9 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (3%)
+#### 3.10 Þráðlaus samskipti tveggja Arduino Uno með notkun nRF24L01. (3%)
   - Lestu vel og vandlega og fylgdu tutorial: [How nRF24L01+ Wireless Module Works & Interface with Arduino](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) 
   - **Ath** tengdu nRF24L01 við 3.3V output. Ekki tengja í 5V, það mun skemma nRF24L01
   - breyttu addressunni á rásinni (e. channel) fyrir samskiptin, notaðu háar tölur.
@@ -102,7 +114,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Sjá t.d. [Introduction to SPI I
 
 ---
 
-#### 3.10 Samskipti í báðar áttir með Arduino Uno og nRF24L01. (3%)
+#### 3.11 Samskipti í báðar áttir með Arduino Uno og nRF24L01. (3%)
 - Tengdu tvo Arduino Uno með nRF24L01
 - Sýndu samskipti sem fara í báðar áttir með tökkum og led perum.
 - Sjá t.d. [NRF24L01 Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/)
