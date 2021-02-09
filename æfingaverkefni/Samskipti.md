@@ -1,12 +1,8 @@
-### Samskipti 
-
-Búðu til í **private** Github Repository vefsíðu (Verkefni 5) í Wiki sem inniheldur eftirfarandi:
-
-- Svör við spurningum.
-- Tengla á myndbönd af verklegum verkefnum (með nafn og dagsetningu á myndbandi).
-- Tengla á kóðaskrár sem þú notar í verklegum verkefnum.
+# Samskipti (SPI)
 
 ---
+
+## Serial Peripheral Interface (SPI)
 
 #### 1. SPI 
 Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol) og svaraðu eftirfarandi spurningum:
@@ -28,6 +24,10 @@ Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/b
 - [Arduino og SPI](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi/all) 
 - [SPI safnið fyrir Arduino](https://www.arduino.cc/en/reference/SPI)
 
+
+---
+
+## Inter-Integrated Circuit (I2C) 
 
 #### 3. Inter-Integrated Circuit (I2C) 
 Lestu [I2C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/) og svaraðu eftirfarandi spurningum:
