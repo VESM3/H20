@@ -92,7 +92,7 @@ Kynntu þér Serial Peripheral Interface (SPI). Lestu [BASICS OF THE SPI COMMUNI
 ---
 
 #### 3.9. (1%)
-1. Fylgdu eftirfarandi tutorial: [Communication between two Arduino Boards](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial) og settu upp á Breadboard. Sjá einnig [How do you use SPI on an Arduino?](https://arduino.stackexchange.com/questions/16348/how-do-you-use-spi-on-an-arduino). **ATH.** notaðu þessa [rásarteikningu](https://raw.githubusercontent.com/VESM3/V21/master/Myndir/SPI.png) í staðinn fyrir þá sem er í greininni og þessa [kóða](https://gist.github.com/gestskoli/d2069beb5c4d0cf7c9351d75dfc3e2b0) í stað kóðanna sem eru í greininni.
+1. Fylgdu eftirfarandi tutorial: [Communication between two Arduino Boards](https://circuitdigest.com/microcontroller-projects/arduino-spi-communication-tutorial) og settu upp á Breadboard. **ATH.** notaðu þessa [rásarteikningu](https://raw.githubusercontent.com/VESM3/V21/master/Myndir/SPI.png) í staðinn fyrir þá sem er í greininni og þessa [kóða](https://gist.github.com/gestskoli/d2069beb5c4d0cf7c9351d75dfc3e2b0) í stað kóðanna sem eru í greininni. Sjá einnig [How do you use SPI on an Arduino?](https://arduino.stackexchange.com/questions/16348/how-do-you-use-spi-on-an-arduino). 
 
 
 **SPI:**
