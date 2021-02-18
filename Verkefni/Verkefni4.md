@@ -65,7 +65,7 @@ IFTTT hefur allskonar vefþjónustur sem þú getur nýtt þér, skoðaðu hvað
 
 ---
 
-#### 4.6 Analog Output (3%)
+#### 4.6 Analog Output (3%) - **Má sleppa!**
 
 Notaðu **Slider block** `(min value 0, max vale 1024)` í **Dashbord** með Adafruit IO til að stýra birtustig á LED sem er tengd við PWM pinna á RaspberryPi. <br>
 
