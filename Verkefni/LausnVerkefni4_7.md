@@ -1,4 +1,4 @@
-### V4.5 
+### V4.7
 
 - Sendu analog gildi frá ljósviðnámi (e. photocell) til Adafruit IO. 
 - Birtu rauntímaniðurstöður með Gauge block og línuriti í Dashboard.
