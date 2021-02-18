@@ -50,7 +50,7 @@ Sjá [Digital Output (Python)](https://learn.adafruit.com/adafruit-io-basics-dig
 #### 4.4 Reactive Triggers (3%) 
 Skoðaðu [How to Use Triggers in Your Adafruit IO Project](https://www.digikey.com/en/maker/blogs/2019/how-to-use-triggers-in-your-adafruit-io-project)
 
-1. Tengdu [Ljósviðnám](https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi/basic-photocell-reading) og led peru í brauðbretti með viðnámi tengt við RaspberryPi.
+1. Tengdu takka og led peru í brauðbretti með viðnámi tengt við RaspberryPi.
 1. búðu til `reactive trigger` í Adafruit IO sem lætur led peru kveikja á sér þegar það dimmir en slekkur á sér þegar það er bjart.
 
 **ath.** Í þessu dæmi notum við aðeins einn RaspberryPi. Eðlilegra væri að vinna með tvo eða fleiri endapunkta (t.d. 2 x arduino) sem er nettengdir.
