@@ -5,7 +5,7 @@
 
 ---
 
-### Generic Capacitive Soil Moisture Sensor (Analog)
+## Generic Capacitive Soil Moisture Sensor (Analog)
 
 _Í vinnslu/skoðun 20.02.2021 (GUS)_
 - [Capacitive Soil Moisture Sensor Calibration with Arduino](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
@@ -18,11 +18,11 @@ _Í vinnslu/skoðun 20.02.2021 (GUS)_
 - [How to Use a Soil Moisture Sensor and ambient light to Keep Your Plants Alive (with python)](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
 - [Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/overview)
 
-### adafruit_seesaw safnið
+#### adafruit_seesaw safnið
 - [arduino](https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit__seesaw.html)
 - [python](https://circuitpython.readthedocs.io/projects/seesaw/en/latest/api.html#adafruit-seesaw-seesaw)
 
-### Kóðasýnidæmi (Arduino og Raspberry PI) með Adafruit STEMMA soil sensor.
+#### Kóðasýnidæmi (Arduino og Raspberry PI) með Adafruit STEMMA soil sensor.
 
 Arduino
 
