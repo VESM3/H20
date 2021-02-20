@@ -1,11 +1,20 @@
-## Soil sensors
+# Soil sensors
 
 - [Testing Capacitive soil moisture sensors](https://flashgamer.com/blog/comments/testing-capacitive-soil-moisture-sensors)
 - [Why most soil sensors suck](https://www.youtube.com/watch?v=udmJyncDvw0)
 
 ---
 
-## Adafruit STEMMA Soil Sensor
+### Generic Capacitive Soil Moisture Sensor (Analog)
+
+_Í vinnslu/skoðun 20.02.2021 (GUS)_
+- [Capacitive Soil Moisture Sensor Calibration with Arduino](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
+- [Interface Capacitive Soil Moisture Sensor v1.2 with Arduino](https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/)
+- [Tutorial – Using Capacitive Soil Moisture Sensors on the Raspberry Pi](https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/)
+
+---
+
+## Adafruit STEMMA Soil Sensor (I2C)
 - [How to Use a Soil Moisture Sensor and ambient light to Keep Your Plants Alive (with python)](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
 - [Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/overview)
 
