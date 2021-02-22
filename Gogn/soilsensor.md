@@ -1,13 +1,12 @@
 # Soil sensors
 
-- [Testing Capacitive soil moisture sensors](https://flashgamer.com/blog/comments/testing-capacitive-soil-moisture-sensors)
-- [Why most soil sensors suck](https://www.youtube.com/watch?v=udmJyncDvw0)
+1. [Why most soil sensors suck (10 mín myndband)](https://www.youtube.com/watch?v=udmJyncDvw0)
+1. [Testing Capacitive soil moisture sensors](https://flashgamer.com/blog/comments/testing-capacitive-soil-moisture-sensors)
 
 ---
 
 ## Generic Capacitive Soil Moisture Sensor (Analog)
 
-_Í vinnslu/skoðun (GUS)_
 - [Interface Capacitive Soil Moisture Sensor v1.2 with Arduino](https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/)
 - [Capacitive Soil Moisture Sensor Calibration with Arduino](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
 - [Tutorial – Using Capacitive Soil Moisture Sensors on the Raspberry Pi](https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/)
