@@ -10,14 +10,14 @@
 - [Interface Capacitive Soil Moisture Sensor v1.2 with Arduino](https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/)
 - [_Ítarefni: Capacitive Soil Moisture Sensor Calibration with Arduino_](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
 - [_Using Capacitive Soil Moisture Sensors on the Raspberry Pi (ADC converter)_](https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/)
--->
 
 ---
 
 ## Adafruit STEMMA Soil Sensor (I2C)
 - [Adafruit STEMMA Soil Sensor - I2C Capacitive Moisture Sensor](https://learn.adafruit.com/adafruit-stemma-soil-sensor-i2c-capacitive-moisture-sensor/overview)
 - [Myndband: How to Use a Soil Moisture Sensor and ambient light to Keep Your Plants Alive (with python)](https://medium.com/initial-state/how-to-use-a-soil-moisture-sensor-to-keep-your-plants-alive-51a2294b88e)
-- 
+
+
 #### adafruit_seesaw safnið
 - [arduino](https://adafruit.github.io/Adafruit_Seesaw/html/class_adafruit__seesaw.html)
 - [python](https://circuitpython.readthedocs.io/projects/seesaw/en/latest/api.html#adafruit-seesaw-seesaw)
