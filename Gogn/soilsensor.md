@@ -8,8 +8,8 @@
 ## Generic Capacitive Soil Moisture Sensor (Analog)
 
 - [Interface Capacitive Soil Moisture Sensor v1.2 with Arduino](https://how2electronics.com/interface-capacitive-soil-moisture-sensor-arduino/)
-- [Ítarefni: Capacitive Soil Moisture Sensor Calibration with Arduino](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
-- [Tutorial – Using Capacitive Soil Moisture Sensors on the Raspberry Pi (ADC converter)](https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/)
+- [_Ítarefni: Capacitive Soil Moisture Sensor Calibration with Arduino_](https://makersportal.com/blog/2020/5/26/capacitive-soil-moisture-calibration-with-arduino)
+- [_Tutorial – Using Capacitive Soil Moisture Sensors on the Raspberry Pi (ADC converter)_](https://www.switchdoc.com/2020/06/tutorial-capacitive-moisture-sensor-grove/)
 
 ---
 
