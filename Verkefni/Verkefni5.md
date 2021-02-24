@@ -44,16 +44,15 @@ Verkefnið er í grunninn að sinna pottaplöntu með notkun skynjara fyrir mæl
 ### IoT viðbót, með notkun Adafruit IO. (50%)
 1. Viðmót í Adafruit IO. Sjá sýnidæmi [Pet Planter with Adafruit IO](https://learn.adafruit.com/pyportal-pet-planter-with-adafruit-io/adafruit-io-setup)
    - 20%
-      - Viðmót sýnir nýjustu mælingar; hita í celsíus, jarðvegsraka og birtustig.
+      - Viðmót sýnir nýjustu mælingar; hita í celsíus, jarðvegsrakastig og birtustig.
       - Viðmót sýnir þróunina hita og jarðvegsraka yfir tíma (línurit). 
-     <!--  - Viðmót sýnir meðaltal, há- og lággildi.  -->
    - 15%
       - Viðmót sýnir nýjustu mælingar; jarðvegsrakastig, en það vantar hita- eða birtustig.
       - Viðmót sýnir þróunina hita og jarðvegsraka yfir tíma (línurit). 
    - 10%
-      - Viðmót sýnir nýjustu mælingar á jarðsvegsrakastig sem og samanburð yfir tíma (línarit).
+      - Adafruit IO viðmót sýnir einhverjar mælingar.
    -  5%
-      - Viðmót er ábótavant, sýnir takmarkaðar eða rangar upplýsingar.
+      - Viðmót vantar en mælingar eru birtar í Raspberry Pi með `print()`
 1. Vefþjónusta (IFTTT)  
    - 10%  Notað er IFTTT vefþjónustu til að láta notanda vita að það þarf að vökva plöntu útfrá upplýsingum frá rakaskynjara.
    -  5%  Virkni er ábótavant.
