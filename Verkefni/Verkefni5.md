@@ -47,12 +47,11 @@ Verkefnið er í grunninn að sinna pottaplöntu með notkun skynjara fyrir mæl
       - Viðmót sýnir nýjustu mælingar; hita í celsíus, jarðvegsrakastig og birtustig.
       - Viðmót sýnir þróunina hita og jarðvegsraka yfir tíma (línurit). 
    - 15%
-      - Viðmót sýnir nýjustu mælingar; jarðvegsrakastig, en það vantar hita- eða birtustig.
-      - Viðmót sýnir þróunina hita og jarðvegsraka yfir tíma (línurit). 
+      - Viðmót sýnir nýjustu mælingar; jarðvegsrakastig, hita og birtustig.
    - 10%
-      - Adafruit IO viðmót sýnir einhverjar mælingar.
+      - Mælingar (jarðvegsrakastig, hiti og birtustig) eru birtar í Raspberry Pi með `print()`
    -  5%
-      - Viðmót vantar en mælingar eru birtar í Raspberry Pi með `print()`
+      - Viðmót vantar en Rapberry Pi sýnir einhver gögn.
 1. Vefþjónusta (IFTTT)  
    - 10%  Notað er IFTTT vefþjónustu til að láta notanda vita að það þarf að vökva plöntu útfrá upplýsingum frá rakaskynjara.
    -  5%  Virkni er ábótavant.
