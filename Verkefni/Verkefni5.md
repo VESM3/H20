@@ -36,8 +36,8 @@ Verkefnið er í grunninn að sinna pottaplöntu með notkun skynjara fyrir mæl
    -  5% Upplýsingar birtast eingöngu í serial monitor með Arduino.
 1. Stýringar.
    - 15% 
-     - Kveikt er á LED peru úrfrá ljósmælingu (LDR skynjari) ef það verður skyndilegt myrkur á þeim tima sem það á að vera bjart (daginn).
-     - Kveikt er á led peru yfir ákveðið tímabil (daginn) og slökkt á öðrum tíma (nótt).
+     - Kveikt er á LED peru úrfrá ljósmælingu (LDR skynjari) ef það verður skyndilegt myrkur.
+     - Kveikt er á led peru yfir ákveðið tímabil (daginn) annars er slökkt.
    - 10% Kveikt er á led peru yfir ákveðið tímabil (daginn) og slökkt á öðrum tíma (nótt).
    - 5% Stýring er ábótavant.
 
@@ -60,9 +60,9 @@ Verkefnið er í grunninn að sinna pottaplöntu með notkun skynjara fyrir mæl
 1. Stýringar 
    - 20% 
       - Notað er Reactive trigger til að kveikja á led peru útfrá upplýsingum frá ljósnema (myrkur).
-      - Notað er Schedule Trigger til að kveikja og slökkva á led peru á ákv. tímabili (dagur/nótt).
+      - Notað er Schedule Trigger til að kveikja og slökkva á led peru yfir ákv. tímabili (dagur/nótt).
    - 10% 
-      - Notað er Schedule Trigger til að kveikja á led peru á ákv. tímabili (dagur/nótt).
+      - Notað er Schedule Trigger til að kveikja á led peru yfir ákv. tímabili (dagur/nótt).
       
 ---
 
