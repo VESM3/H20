@@ -1,5 +1,5 @@
 ##  Gagnaflutningir Arduino->RPi->Adafruit
-Hvert "send" virðist taka nokkrar sek.
+Hvert "send" telir nokkrar sekúndur.
 
 ### Arduino kóði
 ```C
