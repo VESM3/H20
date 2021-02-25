@@ -11,7 +11,7 @@ while True:
             #  decode() decodes the UTF8 data, convert byte strings to Unicode
             #  strip() removes the trailing end of line characters
             # temp = rawserial.decode('utf-8').strip('\r\n')
-            temp = rawserial.decode('utf-8').strip()
+            temperature = rawserial.decode('utf-8').strip()
             #  print the output in python console.
             print(temperature)
       
