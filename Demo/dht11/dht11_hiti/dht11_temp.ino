@@ -1,3 +1,5 @@
+// Byggt á tutorial: https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
+// Náðu í DHTLib library (zip skrá) í tutorial
 #include <dht.h>
 
 //DHT11 is connected to pin 8
