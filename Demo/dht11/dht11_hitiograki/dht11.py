@@ -5,7 +5,7 @@ import serial
 # import RPi.GPIO as GPIO  
 
 # This may change in your case to /dev/ttyUSB1, /dev/ttyUSB2, etc.
-ser = serial.Serial('dev/ttyACM0', 9600) # change ACM number as found from ls /dev/tty/ACM*
+ser = serial.Serial('/dev/ttyACM0', 9600) # change ACM number as found from ls /dev/tty/ACM*
 
 while True:
         # If serial data is present
