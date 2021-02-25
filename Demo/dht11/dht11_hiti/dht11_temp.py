@@ -2,7 +2,7 @@
 import serial
 
 # change ACM number as found from ls /dev/tty/ACM*
-ser = serial.Serial('dev/ttyACM0', 9600) 
+ser = serial.Serial('/dev/ttyACM0', 9600) 
 while True:
         # If serial data is present
         if ser.in_waiting > 0:
