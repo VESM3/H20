@@ -1,5 +1,5 @@
 ##  Gagnaflutningir Arduino->RPi->Adafruit
-Hvert "send" telir nokkrar sekúndur.
+Hvert "send" tekur nokkrar sekúndur.
 
 ### Arduino kóði
 ```C
@@ -7,12 +7,10 @@ float tala1;
 float tala2;
 float tala3; 
 
-
 void setup() {
   Serial.begin(9600); 
   randomSeed(A0);
 } 
-
 
 void loop() {
   tala1 = float(random(1000) + 100)/10.0;
@@ -34,19 +32,14 @@ import serial
 import time
 from Adafruit_IO import Client, Feed, RequestError 
 
-
 ser = serial.Serial('/dev/ttyACM0',9600) # ATH getur verið öðruvísi fyri Pi zero
-
 
 ADAFRUIT_IO_USERNAME = "notendanafn"
 ADAFRUIT_IO_KEY = "lykill" 
 
-
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY) 
 
-
 FEEDS = ["feed1", "feed2", "feed3"] # nöfnin á Feed-unum á Adafruit IO 
-
 
 while True:
     try:
@@ -55,7 +48,6 @@ while True:
         gildi1 = fra_arduino.split(",")[0]
         gildi2 = fra_arduino.split(",")[1]
         gildi3 = fra_arduino.split(",")[2] 
-
 
         aio.send(FEEDS[0], gildi1)
         aio.send(FEEDS[1], gildi2)
